@@ -1,0 +1,7 @@
+{
+  "name": "co-watch",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

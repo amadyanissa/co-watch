@@ -1,0 +1,25 @@
+.form-label {
+  display: flex;
+  align-items: center;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.confirm-edit {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.input-group {
+  margin-bottom: 20px;
+}
+
+input,
+.select {
+  display: flex;
+  height: 42px;
+  border: 1px solid gray;
+  border-radius: 4px;
+  padding: 0 10px;
+  width: 100%;
+}
